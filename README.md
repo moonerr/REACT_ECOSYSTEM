@@ -1,2 +1,2 @@
-# REACT_ECOSYSTEM
+# react-ecosystem
 My react project from scratch
